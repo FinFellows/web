@@ -117,7 +117,8 @@ const config: Config = {
       zIndex: {
         toggle: '1',
         header: '50',
-        mobileHeader: '100',
+        modal: '100',
+        mobileHeader: '500',
       },
       screens: {
         tablet: '900px',
